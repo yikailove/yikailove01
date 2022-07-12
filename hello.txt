@@ -3,5 +3,5 @@ hello world
 hello world
 hello world
 hello world
-hello world
-我在热修分支上对hello.txt文件进行了修改
+hello world  hot-fix test
+
